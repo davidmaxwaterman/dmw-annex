@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# What's this branch about
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The main objective is to get some experience of React, and so be able
+to interview on it and land a job.
+
+I also have it in mind to simultaeously practice TDD, or BDD.
+
+# What's the plan
+
+I'm not sure I'd call it a plan, but I want to develop tests that will
+help me maintain this application in the future.
+
+Until the time of writing, I've just been playing with React and getting
+an idea of how to make things work. It seems like the React Testing
+Library is quite strictly focused on unit testing, and isn't set up for
+testing things like layout and appearance. As such, I've decided to try
+to concentrate on that style of test for now, with a mind to create HTML
+that is well structured, and add the visual style/appearance later, as
+well as the tests for that (which would probably be more in line with
+what I'm used to from Google Lit).
+
+I really like the idea of progressive enhancement. For this game, I'd
+imagine it could be totally textual and then add images for decoration
+and white/black pieces, etc.
 
 ## Available Scripts
 
