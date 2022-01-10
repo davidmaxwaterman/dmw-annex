@@ -50,7 +50,9 @@ function DmwAnnexAboutPage() {
         License: http://creativecommons.org/licenses/by/3.0/<br/>
         <br/>
       </div>
-      <a href="/">Back</a>
+      <nav>
+        <a href="/">Back</a>
+      </nav>
     </div>
   );
 }
